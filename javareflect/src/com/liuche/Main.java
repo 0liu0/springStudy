@@ -3,7 +3,6 @@ package com.liuche;
 import com.liuche.pojo.Cat;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
