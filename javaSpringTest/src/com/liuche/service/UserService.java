@@ -16,7 +16,7 @@ public class UserService implements InitializingBean,UserAction {
     public void Test() {
         System.out.println("这是UserService的Test类！！！");
 //        managerService.Test01();
-//        System.out.println(managerService.getClass());
+        System.out.println(managerService.getClass());
     }
     public void Test01() {
         System.out.println("这是UserService的Test类！！！");
